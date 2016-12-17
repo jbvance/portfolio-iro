@@ -32,7 +32,7 @@ theme_settings:
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange:  # Full URL
+  stack_exchange:  #Full URL
   steam:
   tumblr:
   twitter: #"joeykirk"
@@ -40,7 +40,7 @@ theme_settings:
   youtube:
 
   # Scripts
-  google_analytics: "UA-89151128-1"
+  google_analytics: "UA-89151128-1" 
   disqus_shortname:
   katex: true # Enable if using math markup
 
