@@ -3,7 +3,7 @@ layout: post
 title: Bloc Jams
 feature-img: "img/blur_bg_1.jpg"
 thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030966/blocjams_1x.png"
-short-description: BlocJams for iOS is awesome!
+short-description: A music player built using HTML, CSS, and Javascript
 
 ---
 
